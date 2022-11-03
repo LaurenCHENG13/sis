@@ -1,6 +1,6 @@
 Model Information:
-* title:	Japanese Candy Apple Stand
-* source:	https://sketchfab.com/3d-models/japanese-candy-apple-stand-54395f888ff54b58856a37efe1b84ed0
+* title:	Japanese Noodle Stand
+* source:	https://sketchfab.com/3d-models/japanese-noodle-stand-ee65b0c6b4184bd1942bab77ed681d2a
 * author:	matthewnixon (https://sketchfab.com/matthewnixon)
 
 Model License:
@@ -8,4 +8,4 @@ Model License:
 * requirements:	Author must be credited. Commercial use is allowed.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "Japanese Candy Apple Stand" (https://sketchfab.com/3d-models/japanese-candy-apple-stand-54395f888ff54b58856a37efe1b84ed0) by matthewnixon (https://sketchfab.com/matthewnixon) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This work is based on "Japanese Noodle Stand" (https://sketchfab.com/3d-models/japanese-noodle-stand-ee65b0c6b4184bd1942bab77ed681d2a) by matthewnixon (https://sketchfab.com/matthewnixon) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
